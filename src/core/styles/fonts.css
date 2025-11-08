@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root {
+  --body-font-family: "Momo Trust Display", sans-serif;
+  --title-font-family: "Momo Trust Display", sans-serif;
+}

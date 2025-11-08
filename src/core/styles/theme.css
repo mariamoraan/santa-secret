@@ -1,0 +1,16 @@
+:root {
+  /* Base */
+  --color-background: t;
+  --color-text: #1f2937;
+  --color-light-grey: #D0CFD6;
+  --color-mid-grey: #717083;
+  --color-dark-grey: #121130;
+  --color-primary: #FD5150;
+  --color-primary-light: hsl(351, 85%, 85%);
+  --color-primary-extra-light: hsl(351, 85%, 95%);
+  /* Sidebar */
+  --color-sidebar-bg: #e5e7eb;
+  --color-sidebar-text: #374151;
+  /* Forms */
+  --color-input-bg: #EDF5F9;
+}
