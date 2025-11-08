@@ -42,7 +42,7 @@ export const GroupViewPage = () => {
 
     if (isLoading) return <p>Loading...</p>
 
-    const buildShareLink = () => `http://localhost:5173/happy-santa/${group?.id}`;
+    const buildShareLink = () => `https://santa-secret.vercel.app/happy-santa/${group?.id}`;
 
 
     return (
